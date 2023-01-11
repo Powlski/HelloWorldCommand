@@ -1,5 +1,12 @@
 plugins {
     id 'java'
+    id "org.sonarqube" version "3.5.0.2730"
+}
+
+sonar {
+    properties {
+        property "sonar.projectKey", "Powlski_HelloWorldCommand_AYWhZn4uI_dtf9G02WAq"
+    }
 }
 
 group 'Powlski'

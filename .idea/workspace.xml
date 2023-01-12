@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="36de25e3-1d26-44d8-952f-47da9d5b29ba" name="Changes" comment="fix Jenkinsfile">
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+    <list default="true" id="36de25e3-1d26-44d8-952f-47da9d5b29ba" name="Changes" comment="added was ist los">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Powlski/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Powlski/Main.java" afterDir="false" />
     </list>
@@ -145,8 +144,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
         <item itemvalue="Gradle.HelloWorldCommand [build]" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Gradle.HelloWorldCommand [buildDependents]" />
       </list>
     </recent_temporary>
@@ -181,13 +180,21 @@
       <option name="project" value="LOCAL" />
       <updated>1673451941349</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="added was ist los">
+      <created>1673452623208</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1673452623208</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Commit" />
     <MESSAGE value="added Jenkins+Sonarqube&#10;init calculator" />
     <MESSAGE value="fix Jenkinsfile" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix Jenkinsfile" />
+    <MESSAGE value="added was ist los" />
+    <option name="LAST_COMMIT_MESSAGE" value="added was ist los" />
   </component>
 </project>

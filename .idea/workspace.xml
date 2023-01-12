@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="36de25e3-1d26-44d8-952f-47da9d5b29ba" name="Changes" comment="del addition">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Powlski/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Powlski/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="36de25e3-1d26-44d8-952f-47da9d5b29ba" name="Changes" comment="del space" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -201,7 +198,28 @@
       <option name="project" value="LOCAL" />
       <updated>1673508048643</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="changed text">
+      <created>1673508722249</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1673508722249</updated>
+    </task>
+    <task id="LOCAL-00008" summary="changed text to german">
+      <created>1673508862239</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1673508862239</updated>
+    </task>
+    <task id="LOCAL-00009" summary="del space">
+      <created>1673508937865</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1673508937865</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -211,6 +229,9 @@
     <MESSAGE value="added was ist los" />
     <MESSAGE value="add addition" />
     <MESSAGE value="del addition" />
-    <option name="LAST_COMMIT_MESSAGE" value="del addition" />
+    <MESSAGE value="changed text" />
+    <MESSAGE value="changed text to german" />
+    <MESSAGE value="del space" />
+    <option name="LAST_COMMIT_MESSAGE" value="del space" />
   </component>
 </project>

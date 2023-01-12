@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="36de25e3-1d26-44d8-952f-47da9d5b29ba" name="Changes" comment="add addition">
+    <list default="true" id="36de25e3-1d26-44d8-952f-47da9d5b29ba" name="Changes" comment="del addition">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Powlski/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Powlski/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -193,7 +194,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673502590547</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="del addition">
+      <created>1673508048643</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1673508048643</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -202,6 +210,7 @@
     <MESSAGE value="fix Jenkinsfile" />
     <MESSAGE value="added was ist los" />
     <MESSAGE value="add addition" />
-    <option name="LAST_COMMIT_MESSAGE" value="add addition" />
+    <MESSAGE value="del addition" />
+    <option name="LAST_COMMIT_MESSAGE" value="del addition" />
   </component>
 </project>
